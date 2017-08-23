@@ -1,1 +1,1 @@
-# OpenCV_color_detection_python
+# OpenCV
